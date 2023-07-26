@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8501850507",
+    "project_id": "iecaandroid",
+    "storage_bucket": "iecaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8501850507:android:ad778ab81c260bc2e77f8e",
+        "android_client_info": {
+          "package_name": "com.example.iecaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8501850507-pik9h2i8ndgmabd7ip7a80ki7offtp5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4bf-UJT00Se2JLFV-xosINPotax20TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8501850507-pik9h2i8ndgmabd7ip7a80ki7offtp5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
